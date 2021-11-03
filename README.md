@@ -4,7 +4,7 @@ Flask application 'Bot' - personal assistant with contact book and notebook feat
     To run:
     - set environmemt variable FLASK_APP=main.py:init_app()
     - set environmemt variable FLASK_ENV=development
-    - run flask upp
+    - run flask app
 
 Application modules are tested with Pytest. Pytest cov-report could be found at bot/test/cov-html folder. Average test coverage = 91%.
 
